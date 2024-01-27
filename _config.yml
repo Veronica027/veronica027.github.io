@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Ying(Veronica) Huang # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am Veronica, an innovative data analyst and a self-motivated learner. It's my belief that data make up this world and can change this world!
   <br><br>
-  Second description 
+  Technical skills: SQL, Python, R, Tableau, AWS(Redshift, S3, EC2)
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/ying-huang-msma">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
