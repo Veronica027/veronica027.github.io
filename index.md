@@ -22,7 +22,7 @@
 [Decision Support System: Machine Learning Project](/sample_page)
 <img src="images/CLC project.png?raw=true"/>
 
-####Utilized the dataset of HELOC applications to predict whether they will pay back their HELOC account. Our vision is to develop a predictive model to access credit risk and combine this with an interactive interface that bank/credit card company’s sales representatives can decide whether to accept or reject an application.
+Utilized the dataset of HELOC applications to predict whether they will pay back their HELOC account. Our vision is to develop a predictive model to access credit risk and combine this with an interactive interface that bank/credit card company’s sales representatives can decide whether to accept or reject an application.
 
 [Product Analysis for Cobblestone Learning Center](/sample_page)
 <img src="images/decision support system.png?raw=true"/>
