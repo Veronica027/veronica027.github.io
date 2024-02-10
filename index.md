@@ -35,7 +35,11 @@ Utilized the dataset of HELOC applications to predict whether they will pay back
 Managed a project analyzing test scores of 9k CLC students in different study programs. Used visualization tools to generate curriculum utilization and student performances in different districts; Provided recommendations in course selection to increase students' satisfaction. Conducted A/B test on program effectiveness in virtual and in-person modalities; Helped CLC provide better curricula for students.
 
 
-- [Project 4 Title](http://example.com/)
+- [Data Warehouse Design and Dashboard for an Album Store](http://example.com/)
+<img src="images/dashboard.png?raw=true"/>
+
+Constructed a data warehouse of 8 tables about invoce data and customer data of an album store in the US and Canada market. Used Tablaeu to visualized relavant data for next step to generate business insights.
+
 - [Project 5 Title](http://example.com/)
 
 
