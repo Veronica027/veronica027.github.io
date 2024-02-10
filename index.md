@@ -48,6 +48,7 @@ Constructed a data warehouse of 8 tables about invoce data and customer data of 
 [House Price Index Using ggplot in R](http://example.com/)
 <img src="images/353D5D85-4DDF-4110-ADC6-4552D4F87712.JPG?raw=true"/>
 
+Freddie Mac publishes the monthly index values of the Freddie Mac House Price Index each quarter. Index values are available for the nation, the 50 states and the District of Columbia, and the more than 380 metropolitan statistical areas in the US. This project involved data cleaning and data manipulation. I really had fun with ggplot2 package in R.
 
 
 
