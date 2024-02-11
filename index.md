@@ -4,7 +4,7 @@
 
 ### Work Experience Projects Sample 
 
-Tech Comapny Turnover Rate
+**Tech Comapny Turnover Rate**
 <img src="images/image1.png?raw=true"/>
 
 Created an Excel dashboard reporting tech company turnover rate using an excel file storing top 10 tech companies' headcount numbers, and each department's monthly leaving number.
