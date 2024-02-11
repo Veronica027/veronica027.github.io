@@ -20,6 +20,8 @@ This dashboard shows the first work location ( if the data is missing, then use 
 [ETL Script for Web Scraping](https://github.com/Veronica027/veronica027.github.io/tree/master/ETL-WebScraping-202312)
 <img src="images/ETL image.jpg?raw=true"/>
 
+These ETLs are used to automatically input new data and update old data in the talent pool. These scripts extracted data from Linkedin using Selenium web scraping, transformed data by data cleaning, and loaded cleaned data to AWS S3 as pickle files and updated status on AWS Redshift.
+
 
 ### Academic Projects
 
