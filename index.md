@@ -12,8 +12,8 @@ Created an Excel dashboard reporting tech company turnover rate using an excel f
 
 **Talent Flow Dashboard Sample**
 <img src="images/image2.png?raw=true"/>
-Reported the path of each candidate’s geographical flow on the map using pickle files storing a list of candidates’ work experiences scraped from LinkedIn using an ETL script.
-This dashboard shows the first work location ( if the data is missing, then use the second experience’s location so on, and so forth) as the starting point, and the latest work location as the destination. For instance, if a candidate started his career as an intern in San Francisco Bay Area, then moved to New York and worked for 3 years, and finally relocated to Seattle, then what you need to show is a line (or curve if you like) from San Francisco Bay Area to Seattle. Please note that, in this data set, most candidates work for AWS. So, most of them would end their paths in Seattle.
+Reported the path of AWS employees’ geographical flow on the map using pickle files storing a list of candidates’ work experiences scraped from LinkedIn using an ETL script.
+This dashboard shows the first work location ( if the data is missing, then use the second experience’s location so on, and so forth) as the starting point, and the latest work location as the destination. For instance, if a candidate started his career as an intern in San Francisco Bay Area, then moved to New York and worked for 3 years, and finally relocated to Seattle, then what the graph shows is a line (or curve if you like) from San Francisco Bay Area to Seattle.
 
 
 [**ETL Script for Web Scraping**](https://github.com/Veronica027/veronica027.github.io/tree/master/ETL-WebScraping-202312)
