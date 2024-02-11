@@ -17,7 +17,8 @@ Reported the path of each candidate’s geographical flow on the map using pickl
 This dashboard shows the first work location ( if the data is missing, then use the second experience’s location so on, and so forth) as the starting point, and the latest work location as the destination. For instance, if a candidate started his career as an intern in San Francisco Bay Area, then moved to New York and worked for 3 years, and finally relocated to Seattle, then what you need to show is a line (or curve if you like) from San Francisco Bay Area to Seattle. Please note that, in this data set, most candidates work for AWS. So, most of them would end their paths in Seattle.
 
 ---
-ETL Script for Web Scrapping
+[ETL Script for Web Scrapping](http://example.com/)
+<img src="images/ETL image.jpg?raw=true"/>
 
 
 ### Academic Projects
