@@ -1,8 +1,10 @@
-## Portfolio
+## Projects
 
 ---
 
-### Work Experience Projects Sample 
+### King County House Price Analytics - Data Visualization with Tableau
+[View in Tableau Public](https://public.tableau.com/app/profile/ying.huang4202/viz/HousePriceDashboard_17087296444010/KINGCOUNTYHOUSESALES#2)
+
 
 **Tech Comapny Turnover Rate**
 <img src="images/image1.png?raw=true"/>
