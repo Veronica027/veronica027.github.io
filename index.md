@@ -4,6 +4,7 @@
 
 ### King County House Price Analytics - Data Visualization with Tableau
 [**View in Tableau Public**](https://public.tableau.com/app/profile/ying.huang4202/viz/HousePriceDashboard_17087296444010/KINGCOUNTYHOUSESALES#2)
+
 The goal of this project is to explore the price difference and trend from different dimensions for King County in Washington: Date time, Year built, Sqft living, Sqft Lot. Views can slect year and month from the drop box, select exact date from the calendar if needed, select attributions(Year built, Sqft living, Sqft Lot) from bar.
 <img src="images/king county house prices.jpeg?raw=true"/>
 
