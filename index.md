@@ -9,7 +9,7 @@ The goal of this project is to explore the price difference and trend from diffe
 <img src="images/king county house prices.jpeg?raw=true"/>
 
 
-### Tech Comapny Turnover Rate - Data Visualization with Excel
+### Tech Company Turnover Rate - Data Visualization with Excel
 
 Created an Excel dashboard reporting tech company turnover rate using an excel file storing top 10 tech companies' headcount numbers, and each department's monthly leaving number.
 <img src="images/image1.png?raw=true"/>
